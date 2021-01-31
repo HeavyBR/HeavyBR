@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/ashleymcnamara/gophers/master/GoDZILLA.png)
+
 ### Hi there 👋
 - :heart: I'm a student at State University of Campinas, majoring in Computer Information Systems
 - 🔭 I’m currently working at **[@Sensedia](https://github.com/Sensedia)**
