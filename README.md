@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/ashleymcnamara/gophers/master/GoDZILLA.png)
+![](https://i.imgur.com/haBj46o.png)
 
 ### Hi there 👋
 - :heart: I'm a student at State University of Campinas, majoring in Computer Information Systems
