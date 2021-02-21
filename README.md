@@ -8,3 +8,6 @@
 - 📫 How to reach me:  [twitter.com/mcumpian147](https://twitter.com/mcumpian147)
 - :baby_chick: Learning day after day
 ---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heavybr)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heavybr&count_private=true)
