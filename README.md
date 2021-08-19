@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heavybr" alt="heavybr" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mcumpian147" target="blank"><img src="https://img.shields.io/twitter/follow/mcumpian147?logo=twitter&style=for-the-badge" alt="mcumpian147" /></a> </p>
+<p align="left"> <a href="https://twitter.com/heavy147" target="blank"><img src="https://img.shields.io/twitter/follow/heavy147?logo=twitter&style=for-the-badge" alt="heavy147" /></a> </p>
 
 
 ### Hi there 👋
