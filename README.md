@@ -9,8 +9,10 @@
 ### Hi there 👋
 - :heart: I'm a student at State University of Campinas, majoring in Computer Information Systems
 - 🔭 Creating bugs and solving too (sometimes) at **[@Sensedia](https://github.com/Sensedia)**
-- ⚙️ I use daily: `.js`, `.java`, `.tsx` and `.go`
-- 🔥 I’m currently learning **React, Go, Istio and Kubernetes**
+- ⚙️ I use daily: `.ts`, `.java`, `.tsx`, `.yaml` and `.go`
+- 👽 I`m also using Kubernetes and Istio (Service Mesh) on my daily work
+- 😍 In love with cloud native technologies and event-driven architectures
+- 🔥 I’m currently learning **Kafka, Datomic and Clojure**
 - 📫 How to reach me:  [twitter.com/mcumpian147](https://twitter.com/mcumpian147)
 - :baby_chick: Learning day after day
 ---
