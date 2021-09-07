@@ -13,9 +13,8 @@
 - 👽 I'm also using Kubernetes and Istio (Service Mesh) on my daily work
 - 😍 In love with cloud native technologies and event-driven architectures
 - 🔥 I'm currently learning **Kafka, Datomic and Clojure**
+- 😼 _**Give me a problem, and i will solve it!**_
 
-
-😼 _**Give me a problem, and i will solve it!**_
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heavybr)
