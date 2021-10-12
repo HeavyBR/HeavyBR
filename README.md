@@ -14,7 +14,7 @@
 - 😍 I'm in love with cloud native technologies and event-driven architectures
 - 🤑 Professionally i'm a Go developer, but my favorite language is Elixir 💘
 - 🔥 I'm currently learning **Elixir and Kotlin**
-- 😼 _**Give me a problem, and i will solve it!**_
+- 😼 _**Passionate for problem solving, programming is just a way to handle it.**_
 
 ---
 
