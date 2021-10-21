@@ -1,4 +1,4 @@
-![](https://i.imgur.com/haBj46o.png)
+![original](https://user-images.githubusercontent.com/28281924/138325142-f67b1226-4f9d-4222-b7df-8c0f52b63e66.gif)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heavybr" alt="heavybr" /></a> </p>
