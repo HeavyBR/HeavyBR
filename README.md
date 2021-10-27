@@ -12,7 +12,6 @@
 - 👽 I'm also using Kubernetes and Istio (Service Mesh) on my daily work
 - 😍 I'm in love with cloud native technologies and event-driven architectures
 - 🤑 Professionally i'm a Go developer, but my favorite language is Elixir 💘
-- 🔥 I'm currently learning **Elixir**
 - 😼 _**Passionate for problem solving, programming is just a way to handle it.**_
 
 ---
