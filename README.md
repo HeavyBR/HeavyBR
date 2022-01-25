@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/heavy147" target="blank"><img src="https://img.shields.io/twitter/follow/heavy147?logo=twitter&style=for-the-badge" alt="heavy147" /></a> </p>
 
 ### Hi there 👋
-- :heart: I'm a student at State University of Campinas, majoring in Computer Information Systems
+- :heart: I'm a bachalor in Computer Information Systems at State University of Campinas (UNICAMP)
 - 🔭 Creating bugs and solving too (sometimes) at **[@MercadoLivre](https://github.com/MercadoLibre)**
 - ⚙️ I use daily: `.ts`, `.ex`, `.tsx`, `.yaml` and `.go`
 - 👽 I'm also using Kubernetes and Istio (Service Mesh) on my daily work
