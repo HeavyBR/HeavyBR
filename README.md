@@ -7,7 +7,7 @@
 
 ### Hi there 👋
 - :heart: I'm a student at State University of Campinas, majoring in Computer Information Systems
-- 🔭 Creating bugs and solving too (sometimes) at **[@Sensedia](https://github.com/Sensedia)**
+- 🔭 Creating bugs and solving too (sometimes) at **[@MercadoLivre](https://github.com/MercadoLibre)**
 - ⚙️ I use daily: `.ts`, `.ex`, `.tsx`, `.yaml` and `.go`
 - 👽 I'm also using Kubernetes and Istio (Service Mesh) on my daily work
 - 😍 I'm in love with cloud native technologies and event-driven architectures
