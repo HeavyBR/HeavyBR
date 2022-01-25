@@ -8,7 +8,7 @@
 ### Hi there 👋
 - :heart: I'm a bachelor in Computer Information Systems at State University of Campinas (UNICAMP)
 - 🔭 Creating bugs and solving too (sometimes) at **[@MercadoLivre](https://github.com/MercadoLibre)**
-- ⚙️ I use daily: `.ts`, `.ex`, `.tsx`, `.yaml` and `.go`
+- ⚙️ I use daily: `.java`, `.ex`, `.sql`, `.yaml` and `.go`
 - 👽 I'm also using Kubernetes and Istio (Service Mesh) on my daily work
 - 😍 I'm in love with cloud native technologies and event-driven architectures
 - 🤑 Professionally i'm a Go developer, but my favorite language is Elixir 💘
