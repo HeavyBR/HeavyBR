@@ -5,7 +5,7 @@
 👨‍💻 **About Me**
 
 - **Age**: 23
-- **Alma Mater**: [Unicamp](https://www.unicamp.br/) (One of Latin America's top universities)
+- **Alma Mater**: [Unicamp](http://www.internationaloffice.unicamp.br/about-unicamp/) (One of Latin America's top universities)
 - **Major**: Computer Information Systems
 
 🏢 **Work**
