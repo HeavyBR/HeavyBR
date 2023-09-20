@@ -14,16 +14,17 @@ Currently engineering backend solutions at [Mercado Libre](https://www.mercadoli
 
 📚 **Books**
 
-* **Currently Reading**: **Writing an Interpreter in Go** -> This book is amazing, but its difficult to understand 100%, even building a Pratt's Parser, which is one of the simplest
+* **Currently Reading**: **Writing an Interpreter in Go** - You will learn how to build a lexer, a parser and an interpreter, you'll build a Pratt's parser, which is one kind of top-down operator precedence parser.
 * **Recommended Read**:
-  - Designing Data-Intensive Applications
-  - Database Internals
-  - Go in Action
-  - 100 Go Mistakes
-  - The art of PostgresSQL
-  - Kubernetes in Action
-
-
+  - Designing Data-Intensive Applications - Understand most of the things that you need to know to work nowadays.
+  - Database Internals - Understand how database internals works, strategies that storage systems uses, some things about consensus and distributed-systems. 
+  - Go in Action - Golang reference.
+  - 100 Go Mistakes - If you already know some Go, this is the best book that I know.
+  - Kubernetes in Action - Is the only Kubernetes book that I've read, so I cannot compare too much, but it worked for me.
+* **List for the future**:
+  - The art of PostgreSQL - I've been working mostly with NoSQL databases, specially KV and Column-Based storages, so I think that I need to take out the Rust on SQL.
+  - Understanding Distributed-Systems - Although I've studied a lot about distributed systems, there are a lot of recommendations about this book, so I'll try.
+  
 📬 **Get in Touch**
 
 - **LinkedIn**: [Matheus Cumpian](https://linkedin.com/in/matheuscumpian)
