@@ -10,7 +10,7 @@
 
 I've been working with Go for 4 years, but I do like to learn new languages, and I do know a lot of languages, both OOP and Functional ones.
 
-Currently learning ⚡ **Zig** ⚡, because I'm tired to deal with GC issues in high-perfomance GO services 😢
+Currently learning ⚡ **Zig** ⚡, because I'm tired to deal with GC issues in high-perfomance GO services (don´t tell me to use arenas) 😢
 
 🏢 **Work**
 
