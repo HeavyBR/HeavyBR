@@ -8,7 +8,7 @@
 - **Alma Mater**: [Unicamp](http://www.internationaloffice.unicamp.br/about-unicamp/) (One of Latin America's top universities)
 - **Major**: Computer Information Systems
 
-I've been working with Go for 4 years, but I do like to learn new languages, and I know a lot of languages. 
+I've been working with Go for 4 years, but I do like to learn new languages, and I do know a lot of languages, both OOP and Functional ones.
 
 Currently learning Zig ⚡
 
