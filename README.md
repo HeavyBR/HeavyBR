@@ -14,4 +14,4 @@ Currently engineering backend solutions at [Mercado Libre](https://www.mercadoli
 
 📬 **Get in Touch**
 
-- **LinkedIn**: (https://linkedin.com/in/matheuscumpian)[Matheus Cumpian]
+- **LinkedIn**: [Matheus Cumpian](https://linkedin.com/in/matheuscumpian)
