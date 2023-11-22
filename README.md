@@ -4,9 +4,7 @@
 
 👨‍💻 **About Me**
 
-- **Age**: 23
-- **Alma Mater**: [Unicamp](http://www.internationaloffice.unicamp.br/about-unicamp/) (One of Latin America's top universities)
-- **Major**: Computer Information Systems
+Studied Computer Information Systems at [Unicamp](http://www.internationaloffice.unicamp.br/about-unicamp/).
 
 I've been working with Go for 4 years, but I do like to learn new languages, and I do know a lot of languages, both OOP and Functional ones.
 
