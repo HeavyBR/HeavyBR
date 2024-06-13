@@ -4,13 +4,13 @@
 
 👨‍💻 **About Me**
 
-Studied Computer Information Systems at [Unicamp](http://www.internationaloffice.unicamp.br/about-unicamp/).
+Studied Computer Information Systems at [Unicamp](https://www.topuniversities.com/universities/universidade-estadual-de-campinas-unicamp).
 
 I've been working with Go for 4 years, but I do like to learn new languages, and I do know a lot of languages, both OOP and Functional ones.
 
 🏢 **Work**
 
-Currently engineering backend solutions at [Mercado Libre](https://www.mercadolibre.com/), focusing on high-throughput applications and maintaining a robust microservices environment.
+Currently engineering backend solutions at [Mercado Libre](https://www.mercadolibre.com/) (It's like Amazon, but better 🙉), focusing on high-throughput applications and maintaining a robust microservices environment.
 
 📚 **Books**
 
