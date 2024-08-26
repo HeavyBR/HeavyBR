@@ -10,7 +10,7 @@ I've been working with Go for 4 years, but I do like to learn new languages, and
 
 🏢 **Work**
 
-Currently a Senior Software Engineer at [Mercado Libre](https://www.mercadolibre.com/) (It's like Amazon, but better 🙉), focusing on high-throughput applications and maintaining a robust microservices environment.
+Currently a Senior Software Engineer at [Mercado Libre](https://www.mercadolibre.com/) (It's like Amazon, but made in LATAM <3), focusing on high-throughput applications and maintaining a robust microservices environment.
 
 📚 **Books**
 
